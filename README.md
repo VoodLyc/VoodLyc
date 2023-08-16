@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Johan Sebastián Giraldo Rubio, a Software Engineering. I like programming, playing videogames, watching anime and listen to music.
+I'm Johan Sebastián Giraldo Rubio, a Software developer. I like programming, playing videogames, watching anime and listen to music.
 
 ![VoodLyc GitHub stats](https://github-readme-stats.vercel.app/api?username=VoodLyc&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoodLyc&hide=cython,xslt&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
